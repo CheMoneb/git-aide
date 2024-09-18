@@ -59,4 +59,4 @@ Etapes à suivre lorsque l'on crée un projet (sans branche) :
 
 - $git status
 
-- $git push
+- $git push origin 'nom de la branche'
